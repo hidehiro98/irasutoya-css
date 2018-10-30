@@ -1,6 +1,6 @@
 # いらすとやCSSライブラリ / CSS Library for Irastoya
 
-<img style="content: url('http://imgur.com/SZ8Cm.jpg');">
+<img src="https://1.bp.blogspot.com/-Iv3bczeEefY/WxvJvlRTqEI/AAAAAAABMjc/9Rw8cVYk4B8P8_bcvXoA6gpLuByjtsPdQCLcBGAs/s800/computer_school_boy.png">
 
 [日本語](#日本語) / [English](#English)
 
