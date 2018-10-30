@@ -1,6 +1,6 @@
-# いらすとやCSSライブラリ / CSS Library for Irastora
+# いらすとやCSSライブラリ / CSS Library for Irastoya
 
-<img src="http://imgur.com/SZ8Cm.jpg">
+<img style="content: url('http://imgur.com/SZ8Cm.jpg');">
 
 [日本語](#日本語) / [English](#English)
 
