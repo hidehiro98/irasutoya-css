@@ -1,5 +1,8 @@
 # いらすとやCSSライブラリ / CSS Library for Irastora
-[日本語](##日本語) / [English](##English)
+
+<img src="http://imgur.com/SZ8Cm.jpg">
+
+[日本語](#日本語) / [English](#English)
 
 ## 日本語
 ### 概要
