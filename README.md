@@ -30,9 +30,9 @@ This library uses content:url("image.jpg"), so it may not work with unsupported 
 
 ## メモ
 ### スクレイピングの方針
-時系列のURL（とりあえず https://www.irasutoya.com/2012/01 ）を使って、そこから次のページボタン（前の投稿）を辿って取って行く。
+時系列のURL（ https://www.irasutoya.com/search?updated-max=2012-01-01T20:15:00%2B09:00&max-results=24 みたいな）を使って、そこから次のページボタン（前の投稿）を辿って取って行く。
 #### 次へリンクの構造
-https://www.irasutoya.com/search?updated-max=2012-01-01T20:15:00%2B09:00&max-results=24
+
 - updated-max: 2012-01-01T20:15:00%2B09:00 (2012-01-01T20:15:00 09:00)
 - max-results: 24
 
