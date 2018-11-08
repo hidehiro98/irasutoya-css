@@ -1,4 +1,4 @@
-# いらすとやCSSライブラリ / CSS Library for Irastoya
+# いらすとやCSSライブラリ / CSS Library for Irasutoya
 
 <img src="https://1.bp.blogspot.com/-Iv3bczeEefY/WxvJvlRTqEI/AAAAAAABMjc/9Rw8cVYk4B8P8_bcvXoA6gpLuByjtsPdQCLcBGAs/s800/computer_school_boy.png" width="200">
 
@@ -11,7 +11,7 @@ CSSのcontent:url("image.jpg")を使っているので、対応していない�
 
 ### 使い方
 1. CSSをリンクする<br/>
-`<link rel="stylesheet" href="https://thiscss">`
+`<link rel="stylesheet" href="https://github.com/hidehiro98/irasutoya-css/blob/master/style.css">`
 2. imgタグにクラスを追加する（[画像](https://www.irasutoya.com/2018/10/blog-post_699.html)）<br/>
 `<img class="irasutoya-2018-10-699">`
 `<img class="irasutoya-pet-dog-thirsty">`
@@ -25,8 +25,8 @@ For non commercial use, these illustration are free ([Terms of use](https://tran
 This library uses content:url("image.jpg"), so it may not work with unsupported browsers. ([reference](https://stackoverflow.com/questions/2182716/is-it-possible-to-set-the-equivalent-of-a-src-attribute-of-an-img-tag-in-css))
 
 ### How to use
-1. Link this CSS<br/>
-`<link rel="stylesheet" href="https://thiscss">`
+1. Link the CSS<br/>
+`<link rel="stylesheet" href="https://github.com/hidehiro98/irasutoya-css/blob/master/style.css">`
 2. Add the class to `img` tag. ([this image link](https://www.irasutoya.com/2018/10/blog-post_699.html))<br/>
 `<img class="irasutoya-2018-10-699">`
 `<img class="irasutoya-pet-dog-thirsty">`
